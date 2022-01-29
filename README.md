@@ -1,1 +1,3 @@
-# Getting Started with Create React App
+# Description
+
+Application frontend for task management, built on ReactJS and MaterialUI
